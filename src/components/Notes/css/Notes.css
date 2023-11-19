@@ -1,0 +1,20 @@
+.notes-header {
+    display: flex;
+}
+
+.notes-notes {
+    display: flex;
+}
+
+.notes-refresh-button {
+    margin-left: 20px;
+}
+
+.notes-header-word {
+    font-size:larger;
+    font-weight: bolder;
+}
+
+.notes-new-header {
+    margin-bottom: 10px;
+}
